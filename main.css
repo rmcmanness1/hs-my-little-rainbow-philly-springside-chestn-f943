@@ -1,4 +1,5 @@
-div {
+div {(Red: #f00; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet: #d300c9).} 
+
   border: 20px solid #000; /* this is short hand for setting 
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
